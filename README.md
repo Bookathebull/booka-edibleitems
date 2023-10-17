@@ -28,3 +28,10 @@ STEP 3
 - paste the contents into your qb-smallrecources/config ((around line 91)(ends around line 134))
 
 -------------------------------------------------------------------------------------------------------------------
+
+CREDITS:
+(Combined some items from these great creators)
+mk-items:          https://github.com/McKleans-Scripts/mk-items
+cr-storeextras:    https://github.com/Constant-Development/cr-storeextras
+
+-------------------------------------------------------------------------------------------------------------------
