@@ -1,7 +1,7 @@
 ---------------------------
-|  Creator: Bookathebull  |
+|  Creator: Benz  |
 ---------------------------
-|Script: booka-edibleitems|
+|Script: benz-edibleitems|
 ---------------------------
 Edible items for qb-core. Makes it so you have more food in your server.
 
